@@ -1,0 +1,154 @@
+.container {
+    background-color: rgb(158, 71, 240);
+    height: 500px;
+}
+
+.inner-container {
+    width: 800px;
+    margin: auto;
+}
+
+.navigation-container {
+    font-family: 'Comfortaa', cursive;
+    width: 800px;
+    height: 75px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: start;
+    padding-top: 20px;
+}
+
+.welcome {
+    width: 800px;
+    height: 425px;
+    font-family: 'Comfortaa', cursive;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    padding-top: 180px;
+    padding-bottom: 180px;
+    font-weight: 800;
+    font-size: 64px; 
+}
+
+.me {
+    width: 800px;
+    margin: auto;
+    font-family: 'Comfortaa', cursive;
+}
+
+#about_me {
+    width: 800px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.skills {
+    width: 800px;
+    margin: auto;
+    font-family: 'Comfortaa', cursive;
+}
+
+
+#my_skills {
+    width: 800px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.side {
+    width: 800px;
+    margin: auto;
+    font-family: 'Comfortaa', cursive;
+}
+
+#inner-side {
+    width: 800px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.works {
+    width: 800px;
+    margin: auto;
+    font-family: 'Comfortaa', cursive;
+}
+
+#my_works {
+    width: 800px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.contact {
+    background-color: gray;
+    height: 400px;
+    font-family: 'Comfortaa', cursive;
+}
+
+.inner-contacts {
+    width: 800px;
+    margin: auto;
+}
+
+.contactsb {
+    width: 800px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-weight: 600;
+    font-size: 30px;
+
+}
+
+.contactsc {
+    font-weight: 400;
+    font-size: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+
+.contactsd {
+    font-weight: 400;
+    font-size: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+
+
+
+
+.picture {
+    width: 800px;
+    height: 500px;
+}
+
+
+
+
